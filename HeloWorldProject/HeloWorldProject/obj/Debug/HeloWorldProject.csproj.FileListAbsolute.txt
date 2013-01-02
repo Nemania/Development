@@ -1,1 +1,6 @@
 D:\Development\HeloWorldProject\HeloWorldProject\bin\Debug\HeloWorldProject.exe.config
+D:\Development\HeloWorldProject\HeloWorldProject\bin\Debug\HeloWorldProject.exe
+D:\Development\HeloWorldProject\HeloWorldProject\bin\Debug\HeloWorldProject.pdb
+D:\Development\HeloWorldProject\HeloWorldProject\obj\Debug\HeloWorldProject.csprojResolveAssemblyReference.cache
+D:\Development\HeloWorldProject\HeloWorldProject\obj\Debug\HeloWorldProject.exe
+D:\Development\HeloWorldProject\HeloWorldProject\obj\Debug\HeloWorldProject.pdb
